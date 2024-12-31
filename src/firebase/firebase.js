@@ -8,7 +8,7 @@ import { getDatabase, ref, get, update, child, query, orderByKey, limitToFirst, 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDhrcU8VD0vii4ZSpLmFTzdxDgLRacU778",
+  apiKey: "",
   authDomain: "dictionary-29edb.firebaseapp.com",
   projectId: "dictionary-29edb",
   storageBucket: "dictionary-29edb.firebasestorage.app",
